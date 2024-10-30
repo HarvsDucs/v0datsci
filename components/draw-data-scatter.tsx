@@ -80,7 +80,7 @@ export function DrawDataScatter() {
   return (
     <Card className="w-full max-w-4xl mx-auto">
       <CardHeader>
-        <CardTitle>Draw Data Scatter Chart</CardTitle>
+        <CardTitle>Scatterplot Data Generator</CardTitle>
       </CardHeader>
       <CardContent>
         <div className="space-y-4">
